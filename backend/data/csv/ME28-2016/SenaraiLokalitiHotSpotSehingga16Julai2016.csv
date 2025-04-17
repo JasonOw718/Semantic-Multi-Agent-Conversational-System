@@ -1,0 +1,85 @@
+ID,State,District,Location,Cumulative_Cases,Duration_In_Days
+1,Selangor,Petaling,Pjs 9 /1(Lagoon Perdana & Rumah Kedai),288,291
+2,Selangor,Petaling,"Seksyen 7 (Flat A : Blok 1 - 12, Blok 38 - 43)",101,201
+3,Selangor,Petaling,BI Pju 8 Apt Flora Damansara 2 ( Blok C - F ),110,198
+4,Selangor,Petaling,Sri Pjs 8 Mentari Court,204,190
+5,Selangor,Petaling,Seksyen 15 ( Dataran Otomobil : Blok 1 - 18 ),70,161
+6,Selangor,Petaling,Subang Jaya (Dk Senza Condominium JIn Taylors),98,146
+7,Selangor,Hulu Langat,"Jalan Dayang 26,28,30,32,34,36,38,40,42, 44,46,48,50,52,54,56&58/8 Bandar Mahkota",30,100
+8,Selangor,Petaling,Sri Ss 8 Apt Kelana Impian,20,82
+9,Selangor,Petaling,"Kd Pju 1a Pprt B : Blok D,E,F",14,81
+10,Perak,Kinta,Cherry Apartment,54,80
+11,Selangor,Petaling,Tmn Equine ( Flat Putra Permai & Rumah Kedai ),20,77
+12,Selangor,Petaling,Bt 14 Kg Bunga Melor,24,75
+13,Selangor,Hulu Langat,Pangsapuri Sri Ria Taman Wawasan,16,74
+14,Selangor,Hulu Langat,Appt Taman Bukit Mutiara,16,71
+15,Selangor,Hulu Selangor,Apt Dahlia Tbr Bb,18,71
+16,Selangor,Petaling,"Tmn Puchong Hartamas (Pangsapuri Meranti, Jati, Pulai)",10,62
+17,Selangor,Petaling,Tmn Puchong Prima 1,10,60
+18,Selangor,Petaling,Sri Ss 7 Kelana Puteri Kondo,117,58
+19,Selangor,Petaling,Tmn Bkt Serdang 4,10,58
+20,Selangor,Hulu Langat,"Jalan Dayang 2,4,6,8, 10, 12,14, 16, 18,20,22",9,57
+,,,&24/8 Bandar Mahkota Cheras,,
+21,Selangor,Gombak,Appt Residensi Bistaria,23,56
+22,Selangor,Petaling,BI Pju 10 Apt Rampai Idaman,12,56
+23,Selangor,Petaling,Kd Pju 1a Flat Sri Jati,8,56
+24,Selangor,Petaling,Pst Bdr Puchong (JIn Bandar & Qts Bomba),8,55
+25,Selangor,Petaling,Du Ss 4b,8,51
+26,Johor,Johor Bharu,Tmn Desa Cemerlang_JIn Kekabu,7,51
+27,Selangor,Petaling,Du Ss 2 ( 1),23,49
+28,Selangor,Petaling,Kt Ss 1 Teres B,22,48
+29,Selangor,Petaling,Bdr Puchong Jaya Jin Kenari,20,48
+30,Selangor,Petaling,BI Pju 10 Apt Permai,31,47
+31,Selangor,Hulu Langat,Jalan Rakan 9-17 Taman Rakan,19,46
+32,Selangor,Petaling,Tmn Sri Serdang 2 (Flat Ikan),11,45
+33,Sabah,Keningau,Patikang Ulu,21,45
+34,Selangor,Gombak,Tmn Melawati (F),11,44
+35,Selangor,Hulu Langat,Kawasan Perindustrian Balakong,10,44
+36,Selangor,Petaling,Sri Ss 5a ( 1) : JIn Ss 5a/1 - 5a/10,9,44
+37,Selangor,Petaling,Sri Ss 7 Kelana Putera Kondo,15,44
+38,Selangor,Petaling,Bdr Bkt Puchong Bp 2,8,44
+39,Selangor,Petaling,Bdr Puchong Jaya Jin Bangau,19,44
+40,Selangor,Petaling,Seksyen 16 ( Kuarters Suk ),23,42
+41,Selangor,Petaling,Ss 17/3,24,42
+42,Johor,Johor Bharu,Rumah Kongsi Wct Sb,7,42
+43,Selangor,Hulu Langat,Kem Pga Batu 7 Cheras,16,41
+44,Selangor,Petaling,Tmn Serdang Perdana (South City Plaza),9,41
+45,Selangor,Gombak,Kg Nakhoda Kiri Zon C,8,40
+46,Selangor,Petaling,Seksyen 9 ( Kuarters Ipk Selangor&Kuarters Jkr ),18,40
+47,Selangor,Petaling,BI Pju 10 Indah Kondo,9,40
+48,Selangor,Petaling,"Kd Pju 1a Pprt A : Blok A,B,C",9,40
+50,Kelantan,Kota Bharu,Demit Darat,35,40
+51,Selangor,Petaling,Seksyen 7 (Flat D : Blok 52 - 58),14,39
+52,Selangor,Petaling,Tmn Kinrara JIn Tk 5 (Teres Tmn Mawar),7,39
+53,Wpkl,Cheras,Kuarters Integrasi Cheras,13,39
+54,Selangor,Gombak,Tmn Selayang Jaya Zon B,5,38
+55,Selangor,Petaling,BI Pju 10 One Damansara Kondo,5,38
+56,Selangor,Petaling,BI Pju 9 Sd 7,8,38
+57,Selangor,Petaling,Kt Ss 1 Teres E,12,38
+58,Selangor,Petaling,"Sri Pjs 6 Flat Desa Mentari 2 : Blok 4, 5 , 6",5,38
+59,Selangor,Gombak,Tmn Pelangi Rawang Zon B,7,38
+60,Selangor,Gombak,Bdr Baru Selayang Fasa 1 (Zon A),14,37
+61,Selangor,Klang,Taman Chi Liung (Jalan Setaka Indah),10,37
+62,Johor,Johor Bharu,Bdr Sri Alam_Flat Tasek 64,13,37
+63,Kedah,Langkawi,Kuah,21,37
+64,Selangor,Gombak,Tmn Sri Putra Zon B,11,37
+65,Selangor,Gombak,Kg Nakhoda Kanan Zon C,9,36
+66,Selangor,Petaling,Seksyen U5 ( Mutiara Subang Kaw Perindustrian A : JIn U5/11- U5/17&U5/1- U5/2),10,35
+67,Selangor,Petaling,Bdr Kinrara (JIn Bk 2),11,35
+68,Selangor,Petaling,Tmn Bkt Serdang 5 (JIn Bs 5/1 - 5/10),6,35
+69,Selangor,Klang,Kg Jawa (Lot 9872),7,35
+70,Selangor,Petaling,Tmn Puncak Kinrara 2 (Blok B),6,35
+71,Selangor,Petaling,Bg Seksyen 17 Teres E,12,34
+72,Selangor,Petaling,Tmn Kinrara (JIn Tk 2),10,34
+73,Selangor,Petaling,Tmn Perindustrian Subang Hi-Tech (Jin Nilam & Delima 1,6,34
+74,Selangor,Hulu Langat,Kolej Kemahiran Mara Beranang,11,33
+75,Selangor,Sepang,Apt Kekwa,13,33
+77,Johor,Johor Bharu,Tmn Johor Jaya_JIn Keembong 34-41,6,33
+78,Selangor,Gombak,Kg Sg Salak,7,32
+79,Selangor,Hulu Langat,Jalan Pandan Indah 6/2- 6/11 Pandan Indah Commercial Park,10,32
+80,Selangor,Petaling,"BI Pju 6a Kg Sg Kayu Ara 3 ( JIn Kenanga, Anggerik, Cempaka )",4,32
+81,Johor,Johor Bharu,Flat Sri Lanang_Fasa 2(Blok K-V),5,32
+82,Selangor,Hulu Langat,Jalan 30-38c Kampung Cheras Baru,7,31
+83,Selangor,Petaling,Pjs 9/2 - Pjs 9/30,15,31
+84,Selangor,Petaling,Seksyen U19 ( Kg Paya Jaras Hilir : Jin Teratai 2 ),8,31
+85,Sarawak,Sibu,Lower Laichee,7,31

@@ -1,0 +1,25 @@
+Bar chart with four rows, each having three bars in blue, red, and yellow.
+A top-down shot of a silver laptop on a marble surface.
+A table with rows numbered 1-5 containing Latin text, including "Lorem ipsum", "Aliquam erat volutpat", and "Fusce vitae vestibulum velit".
+Malaysia coat of arms.
+Here is a concise summary of the image:
+
+*   **Content:** A logo featuring a red heart with a hand placed on it, surrounded by text in Malay.
+*   **Keywords:** Logo, heart, hand, Malay, health, KKM (Kementerian Kesihatan Malaysia).
+The image contains a document with the following information: "Ruj. Tuan", "Ruj. Kami", "Tarikh", "KKM-100-2/2/3 (45)", and the date "21 Julai 2016".
+The image contains two quality assurance logos: SIRIM Quality System and IQNet.
+Coat of arms of Malaysia.
+This image is a table showing the number of dengue cases and deaths reported in Malaysia for week 28 of 2016, compared to week 27 of 2016 and week 28 of 2015, broken down by state.
+A table showing COVID-19 cases and duration of outbreak in various locations in Selangor and Perak, Malaysia. The table includes the location name, cumulative cases, and duration of the outbreak in days.
+This image is a table listing property locations in Malaysia, including state, district, address, and numerical data. The states listed include Selangor, Johor, and Sabah. Districts include Gombak, Petaling, Hulu Langat, and Keningau. Addresses include names of residential areas and streets.
+This image contains a table with location data, including state, district, address, and numerical values. The states listed include Selangor, Kelantan, Wpkl, Johor, and Kedah. Districts include Petaling, Kota Bharu, Cheras, Gombak, Klang, Johor Bharu, and Langkawi. Addresses include names of residential areas and roads.
+This image is a table containing location data, including state, district, address, and numerical codes. The states listed include Wpkl, Johor, Selangor, and Sarawak. The districts include Cheras, Johor Bharu, Gombak, Hulu Langat, Petaling, and Sibu. Addresses include Taman Connaught, Tmn Johor Jaya, Kg Sg Salak, Jalan Pandan Indah, and Lower Laichee.
+A table showing IDs, names, performance scores, and remarks for Alice, Bob, and Charlie.
+The image is a table summarizing financial data. The category is "Finance," with subcategories of "Revenue," "Expenses," and "Profit." The details include metrics like "Growth" (12%, Stable), "Reduction" (5%, Controlled), and "Margin" (20%, Healthy).
+A table showing the price and quantity of laptops, monitors, and keyboards.
+A table showing Sales revenue for Q1 ($500K) and Q2 ($600K), and HR employee count (1000).
+A table showing financial data for 2022 and 2023, including revenue, profit, and remarks. 2022 revenue is $10M, profit is $2M, and the remark is "Stable". 2023 revenue is $12M, profit is $3M, and the remark is "Growth".
+A table showing an income-matching portfolio of dedicated fixed income securities, including year, issue, coupon, YTM, cost, portfolio cash flows, target cash flows, and excess/shortfall. The correlation is 99.94%.
+Flowchart of a robot vacuum cleaner's operation, including steps like scanning the environment, planning a route, vacuuming, and returning to the power dock.
+A table showing the height of Wendy (5'6"), Michael (5'9"), Rachael (5'3"), and Allen (5'11").
+

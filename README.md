@@ -1,5 +1,5 @@
 
-# **Multi-Agent Retrieval-Augmented Generation (RAG) System**
+# **Semantic-Multi-Agent-Conversational-System**
 
 This project implements a **Multi-Agent Retrieval-Augmented Generation (RAG) system** that can extract and process data from multiple sources, perform semantic search across various document types (text, images, and tables), and provide contextual responses to user queries. It utilizes **Azure Document Intelligence API**, **Google Gemini**, **LangGraph agent architecture**, and **FastAPI** for building scalable RESTful APIs.
 

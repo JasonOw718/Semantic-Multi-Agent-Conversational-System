@@ -34,8 +34,8 @@ This project implements a **Multi-Agent Retrieval-Augmented Generation (RAG) sys
 - **LangServe** for LangGraph agent management
 - **MongoDB** for session memory
 - **Azure Document Intelligence API** for document extraction
-- **Google Gemini API** and **GroQ API** for advanced NLP queries
-- **Multi-Vector Retriever** for semantic search
+- **Google Gemini API** and **GroQ API** for llm response
+- **Langraph** for constructing agent flow
 
 ### **Frontend**
 - **React.js** (optional, for any UI frontend if required)

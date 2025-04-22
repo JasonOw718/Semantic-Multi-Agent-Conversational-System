@@ -106,19 +106,16 @@ Watch the demo video to see how the system works in action:
 ## 📝 **How It Works**
 
 1. **Document Extraction:**  
-   The system leverages the **Azure Document Intelligence API** to process and extract structured and unstructured data from multiple document formats. This data includes text, tables, and images.
+   The system leverages the **Azure Document Intelligence API** and **Unstructured Library** to process and extract structured and unstructured data from multiple document formats. This data includes text, tables, and images.
 
 2. **Data Indexing:**  
-   The extracted data is indexed into a **Multi-Vector Retriever** system that allows semantic search, meaning it can find contextually relevant data even if exact text matches are not found.
+   The extracted unstructured data is indexed into a **Multi-Vector Retriever** that allows semantic search, meaning it can find contextually relevant data even if exact text matches are not found while others tabular data transform into sql databases.
 
 3. **Query Handling:**  
-   When a user submits a query, the **LangGraph** agents process the request using a multi-agent architecture, where SQL agents handle structured data, and other agents handle unstructured data (text, images). The system intelligently combines the results to respond accurately.
+   When a user submits a query, the **LangGraph** agents process the request using a multi-agent architecture, where multiple SQL agents handle structured data, and multtimodal rag handle unstructured data (text, images). The system intelligently combines the results to respond accurately.
 
 4. **Short-Term Memory:**  
    The system uses **MongoDB** to store temporary session data, such as the current context of the conversation, allowing it to provide contextual responses over multiple interactions.
-
-5. **Semantic Search:**  
-   The **Multi-Vector Retriever** uses embeddings to store data, enabling semantic search capabilities across text, tables, and images.
 
 ---
 

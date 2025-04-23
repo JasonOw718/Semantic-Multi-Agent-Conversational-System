@@ -38,7 +38,9 @@ This project implements a **Multi-Agent Retrieval-Augmented Generation (RAG) sys
 - **Langraph** for constructing agent flow
 
 ### **Frontend**
-- **React.js** (optional, for any UI frontend if required)
+- **HTML**
+- **CSS**
+- **Javascript**
 
 ### **Database**
 - **MongoDB** for short-term memory and state management
